@@ -42,8 +42,8 @@ https://도착페이지URL?UTM파라미터1=값1&UTM파라미터2=값2
 파라미터 값은 대소문자를 구분합니다.
 {% endhint %}
 
-모든 파라미터 종류는 구글 공식 가이드 문서를 참고해 주세요.
+모든 파라미터 종류는 [구글 공식 가이드 문서](https://support.google.com/analytics/answer/10917952?hl=ko)를 참고해 주세요.
 
 ### 참고
 
-UTM 빌더를 활용해 쉽게 URL을 만들 수 있습니다.
+[UTM 빌더](https://www.acecounter.com/utm/utm_builder.php)를 활용해 쉽게 URL을 만들 수 있습니다.
